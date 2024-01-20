@@ -1,2 +1,11 @@
 # linux-setup
-dotfiles for my dwm and other suckless software setup
+dependencies:
+libx11
+libxinerama
+libxft
+freetype2
+libxcb
+ttf-jetbrains-mono
+xorg-xrandr
+picom
+feh
